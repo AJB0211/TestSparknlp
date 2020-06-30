@@ -18,4 +18,4 @@ build/
 .idea
 
 # markdown
-.RHistory
+.Rhistory
