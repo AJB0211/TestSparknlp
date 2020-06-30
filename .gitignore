@@ -1,2 +1,21 @@
+# scala
 *.class
 *.log
+
+# sbt
+# (may want to keep parts of 'project')
+bin/
+project/
+target/
+build/
+
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# markdown
+.RHistory
