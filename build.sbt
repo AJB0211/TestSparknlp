@@ -3,6 +3,9 @@ ThisBuild / version          := "0.1.0-SNAPSHOT"
 ThisBuild / organization     := "com.ajb0211"
 ThisBuild / organizationName := "ajb0211"
 
+// not sure this needs to be here
+scalacOptions += "-target:jvm-1.8"
+
 val sparkVersion = "2.4.2"
 
 libraryDependencies ++=Seq(
