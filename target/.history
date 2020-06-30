@@ -1,0 +1,90 @@
+~run
+build
+compile
+run
+:q
+quit
+:q
+:quit
+:q;
+~run
+exit
+compile
+clean
+compile
+clean
+build
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+clean
+compile
+run
+clean
+compile
+run
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+reload
+clean
+compile
+run
+ls
+exit
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+exit
+compile
+reload
+compile
+reload
+compile
+run "at first there was nothing"
+compile
+run "horse"
+run
+compile
+evicted
+run
+compile
+run
+exit
+compile
+run the fat cat sat on the mat
+exit
+compile
+run all of life is suffering
+exit
+~run
+sbt compile
+compile
+run all of life is suffering
+exit
+compile
+run all of life is suffering
+run who can it be now
+run i hate you
+run all of life is suffering
