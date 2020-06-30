@@ -11,16 +11,18 @@ Requires:
 
 ex.  
 
-    $ sbt   
+    $ sbt
+    ...
     sbt: Main> compile   
-    sbt: Main> run all of life is suffering   
+    sbt: Main> run
+    ...
+    **************************************************  
+    Input or :q to exit  
+    > why are you like this  
+    +----------+  
+    |    result|  
+    +----------+  
+    |[positive]|  
+    +----------+  
 
-    .
-    .
-    .
-
-    +----------+
-    |    result|
-    +----------+
-    |[positive]|
-    +----------+
+It doesn't appear to work very well.
